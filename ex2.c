@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[]) {
     if (argc < 2) {
-        printf("Использование: %s <количество_итераций_n>\n", argv[0]);
+        printf("Using: %s <numb of iterations>\n", argv[0]);
         return 1;
     }
 
